@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShopIt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tagline">Discover the best products from over 1,000 sellers and fast delivery to your doorstep</string>
+    <string name="txt_no_account_signup">Don\'t have an account? <font color="#2196F3">Register Now</font></string>
+    <string name="txt_already_account">Already have an account? <font color="#2196F3">Log In</font></string>
+    <string name="login">LogIn</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="place_order">Place Order</string>
+    <string name="user_account">User Account</string>
+    <string name="description">Description</string>
+</resources>
